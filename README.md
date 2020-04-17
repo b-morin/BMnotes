@@ -2,39 +2,37 @@
 
 Notes techniques au format Cherry Tree pour plus de transportabilité
 
-Cherry Tree pour Debian
-Cherry Tree pour Windows (portable)
+* Format SQLite (par défaut)
+* Format XML
 
-Format SQLite (par défaut)
-Format XML
-
-Architecture matérielle
+## Architecture matérielle
  RAM
  Registres
  Assembleur
-Linux
+ 
+## Linux
     ▸ Bash
     ▸ Networking
     ▸ Git
     ▸ Regex
     ▸ SSH
-  ▸ Windows
+## Windows
     ▸ Script Batch
     ▸ CLI Windows
     ▸ Powershell
-  ▸ Network
+## Network
     ▸ Ethernet
     ▸ IP
     ▸ TCP / UDP
     ▸ Applicatifs
     ▸ Scapy
-  ▸ Virtualisation
+## Virtualisation
     ▸ Docker
-  ▸ Programmation
+## Programmation
     ▸ Python
     ▸ C
 
-  ▸ Hacking
+## Pentest
     ▸ Reconnaissance
     ▸ Footprinting and scanning
     ▸ Gaining access & Elevating Privilege
@@ -55,5 +53,5 @@ Linux
       ▸ Metasploit
       ▸ BurpSuite
       ▸ SQLMap
-▸ Ressources web
-▸ Google Dorks
+## Ressources web
+## Google Dorks
