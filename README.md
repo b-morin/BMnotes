@@ -1,9 +1,6 @@
 # BM Notes
 
-Notes techniques au format Cherry Tree pour plus de transportabilité
-
-* Format SQLite (par défaut)
-* Format XML
+Notes techniques au format Cherry Tree (SQLite)
 
 ## Architecture matérielle
  RAM
