@@ -1,6 +1,7 @@
 # BM Notes
 
 Notes techniques au format Cherry Tree (SQLite)
++ Solutions RootMe (protégé par mdp..)
 
 ## Architecture matérielle
  RAM
